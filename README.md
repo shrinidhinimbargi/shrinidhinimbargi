@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shrinidhinimbargi
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Technology 
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on web development project
 - 📫 ping me in LinkedIn <a href="www.linkedin.com/in/shrinidhi-nimbargi">Linkdin</a>
 
